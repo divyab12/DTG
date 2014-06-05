@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders
+END
+CPTShadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTShadow.h
+END
+CPTDataSourceTestCase.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTDataSourceTestCase.h
+END
+CPTFill.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTFill.h
+END
+CPTGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTGradient.h
+END
+CPTGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTGraph.h
+END
+CPTLimitBand.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTLimitBand.h
+END
+CPTBarPlot.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTBarPlot.h
+END
+CPTPlotSymbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlotSymbol.h
+END
+CPTAxis.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTAxis.h
+END
+CPTMutablePlotRange.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTMutablePlotRange.h
+END
+CPTAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTAnnotation.h
+END
+CPTGridLineGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTGridLineGroup.h
+END
+CPTXYPlotSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTXYPlotSpace.h
+END
+CPTLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTLayer.h
+END
+CPTAxisSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTAxisSet.h
+END
+CPTMutableLineStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTMutableLineStyle.h
+END
+CPTBorderedLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTBorderedLayer.h
+END
+CPTPlatformSpecificDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlatformSpecificDefines.h
+END
+CPTGraphHostingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTGraphHostingView.h
+END
+CPTMutableNumericData+TypeConversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTMutableNumericData+TypeConversion.h
+END
+CPTColorSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTColorSpace.h
+END
+CPTPlotRange.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlotRange.h
+END
+CPTPlotGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlotGroup.h
+END
+CPTNumericDataType.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTNumericDataType.h
+END
+CPTLegend.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTLegend.h
+END
+CPTPieChart.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPieChart.h
+END
+CPTMutableShadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTMutableShadow.h
+END
+CPTPlatformSpecificCategories.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlatformSpecificCategories.h
+END
+CPTFunctionDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTFunctionDataSource.h
+END
+CPTXYAxisSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTXYAxisSet.h
+END
+CPTTheme.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTTheme.h
+END
+CPTScatterPlot.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTScatterPlot.h
+END
+CorePlot-CocoaTouch.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CorePlot-CocoaTouch.h
+END
+CPTMutableNumericData.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTMutableNumericData.h
+END
+NSCoderExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/NSCoderExtensions.h
+END
+CPTPlotArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlotArea.h
+END
+CPTLayerAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTLayerAnnotation.h
+END
+CPTLineStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTLineStyle.h
+END
+CPTTestCase.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTTestCase.h
+END
+CPTTextStylePlatformSpecific.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTTextStylePlatformSpecific.h
+END
+CPTAnimationPeriod.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTAnimationPeriod.h
+END
+CPTImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTImage.h
+END
+CPTTimeFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTTimeFormatter.h
+END
+CPTDerivedXYGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTDerivedXYGraph.h
+END
+CPTXYAxis.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTXYAxis.h
+END
+CPTPlotSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlotSpace.h
+END
+CPTRangePlot.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTRangePlot.h
+END
+CPTNumericData.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTNumericData.h
+END
+CPTCalendarFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTCalendarFormatter.h
+END
+CPTResponder.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTResponder.h
+END
+NSNumberExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/NSNumberExtensions.h
+END
+CPTTradingRangePlot.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTTradingRangePlot.h
+END
+CPTAnnotationHostLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTAnnotationHostLayer.h
+END
+CPTConstraints.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTConstraints.h
+END
+CPTLineCap.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTLineCap.h
+END
+CPTDefinitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTDefinitions.h
+END
+CPTColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTColor.h
+END
+CPTMutableTextStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTMutableTextStyle.h
+END
+CPTGridLines.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTGridLines.h
+END
+CPTTextLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTTextLayer.h
+END
+CPTAxisLabelGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTAxisLabelGroup.h
+END
+CPTPlotAreaFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlotAreaFrame.h
+END
+CPTXYGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTXYGraph.h
+END
+CPTPlatformSpecificFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlatformSpecificFunctions.h
+END
+CPTPlotSpaceAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlotSpaceAnnotation.h
+END
+CPTAnimationOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTAnimationOperation.h
+END
+CPTAxisLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTAxisLabel.h
+END
+CPTTextStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTTextStyle.h
+END
+CPTAxisTitle.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTAxisTitle.h
+END
+mainpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/mainpage.h
+END
+CPTUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTUtilities.h
+END
+CPTPathExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPathExtensions.h
+END
+CPTPlot.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTPlot.h
+END
+CPTNumericData+TypeConversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTNumericData+TypeConversion.h
+END
+CPTAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTAnimation.h
+END
+CPTLegendEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTLegendEntry.h
+END
+CPTExceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/CPTExceptions.h
+END
+NSDecimalNumberExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/WellnessLayers/!svn/ver/2608/iPhone/DietToGo/Code/DietToGo/DietToGo/CorePlotLibs/CorePlotHeaders/NSDecimalNumberExtensions.h
+END
